@@ -5,7 +5,7 @@
 	},
 	"id": "starrydawn72.dark-windows-titlebar",
 	"name": "Dark Windows Titlebar",
-	"version": "v1.0.0",
+	"version": "v1.0.1",
 	"developer": "StarryDawn72",
 	"description": "Enable dark theme on the Windows titlebar",
     "early-load": true,
@@ -20,5 +20,8 @@
     },
     "tags": [
         "customization", "enhancement", "interface"
-    ]
+    ],
+    "links": {
+        "source": "https://github.com/StarryDawn72/dark-windows-titlebar"
+    }
 }
