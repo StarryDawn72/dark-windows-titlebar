@@ -1,0 +1,21 @@
+{
+	"geode": "5.10.1",
+	"gd": {
+		"win": "*"
+	},
+	"id": "starrydawn72.dark-windows-titlebar",
+	"name": "Dark Windows Titlebar",
+	"version": "v1.0.0",
+	"developer": "StarryDawn72",
+	"description": "Enable dark theme on the Windows titlebar",
+    "early-load": true,
+    "settings": {
+        "dark-mode": {
+            "type": "bool",
+            "default": true,
+            "platforms": ["win"],
+            "name": "Dark titlebar",
+            "description": "Enable dark titlebar."
+        }
+    }
+}

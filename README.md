@@ -1,0 +1,3 @@
+# <c-CEBEBE>D</c><c-CBB9B9>a</c><c-C9B5B5>r</c><c-C7B0B1>k</c><c-C5ACAD> </c><c-C3A8A8>W</c><c-C0A3A4>i</c><c-BE9FA0>n</c><c-BC9B9C>d</c><c-BA9697>o</c><c-B89293>w</c><c-B58E8F>s</c><c-B3898B> </c><c-B18586>T</c><c-AF8182>i</c><c-AD7C7E>t</c><c-AA787A>l</c><c-A87475>e</c><c-A66F71>b</c><c-A46B6D>a</c><c-A26769>r</c>
+
+Awesome mod that lets you choose the theme of your titlebar on Windows. **You can toggle it on or off in the mod's settings.**
