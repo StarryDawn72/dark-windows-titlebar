@@ -1,7 +1,7 @@
 {
 	"geode": "5.10.1",
 	"gd": {
-		"win": "*"
+		"win": "2.2081"
 	},
 	"id": "starrydawn72.dark-windows-titlebar",
 	"name": "Dark Windows Titlebar",
